@@ -22,5 +22,3 @@ setTimeout(() => {
 setTimeout(() => {
   process.stdout.write("\n");
 }, 1100);
-
-// ... fill in the rest yourself ...
